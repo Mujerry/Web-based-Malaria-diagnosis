@@ -1,4 +1,5 @@
 # Web-based-Malaria-diagnosis
+
 Intelligent Web based diagnosis of malaria in thick blood smear images
 To run this code,
 python App.py
